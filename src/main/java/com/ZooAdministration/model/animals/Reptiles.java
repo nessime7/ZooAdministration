@@ -20,5 +20,4 @@ public class Reptiles implements Animals {
         return "Reptile name: " + name + " - " +
                 "living costs: " + livingCosts;
     }
-
 }

@@ -56,5 +56,4 @@ public class WorkersRepository {
         Zookeepers zookeepers = new Zookeepers(name, salary);
         this.getZookeepers().add(zookeepers);
     }
-
 }

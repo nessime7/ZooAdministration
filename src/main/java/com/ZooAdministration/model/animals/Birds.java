@@ -20,5 +20,4 @@ public class Birds implements Animals {
         return "Bird name: " + name + " - " +
                 "living costs: " + livingCosts;
     }
-
 }

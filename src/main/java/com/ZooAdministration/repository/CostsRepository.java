@@ -11,5 +11,4 @@ public class CostsRepository {
     public void setCosts(int costs) {
         this.costs = costs;
     }
-
 }

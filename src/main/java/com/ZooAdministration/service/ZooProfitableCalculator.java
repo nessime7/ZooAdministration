@@ -173,5 +173,4 @@ public class ZooProfitableCalculator {
     private void exit() {
         System.exit(0);
     }
-
 }

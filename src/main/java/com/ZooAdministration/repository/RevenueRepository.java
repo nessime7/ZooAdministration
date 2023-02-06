@@ -14,5 +14,4 @@ public class RevenueRepository {
     public void setRevenue(int revenue) {
         this.revenue = revenue;
     }
-
 }
